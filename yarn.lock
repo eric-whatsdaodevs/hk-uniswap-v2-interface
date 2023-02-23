@@ -13671,10 +13671,10 @@ sisteransi@^1.0.5:
   resolved "https://registry.npmjs.org/sisteransi/-/sisteransi-1.0.5.tgz"
   integrity sha512-bLGGlR1QxBcynn2d5YmDX4MGjlZvy2MRBDRNHLJ8VI6l6+9FUiyTFNJ0IveOSP0bcXgVDPRcfGqA0pjaqUpfVg==
 
-skylar-goerli-swap-sdk@1.0.1:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/skylar-goerli-swap-sdk/-/skylar-goerli-swap-sdk-1.0.1.tgz#bfde054462f5b10217b7599bee55c0f6374f0258"
-  integrity sha512-AXk4PKO3OGfd3MraBNk0aU9PQqAsJlJEXpAWgwT4q4WzojGQ9qNmkOu8SK2vXdqiMpyKuhZWHqCZQUwkhxt5uQ==
+skylar-goerli-swap-sdk@1.0.2:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/skylar-goerli-swap-sdk/-/skylar-goerli-swap-sdk-1.0.2.tgz#b61bd3bdfa48d362aff467d62895f0a986270d23"
+  integrity sha512-7J7kLqmB2SDl+H71YOwFvK9WRHPcoVZeTACrECsgSV6SLRbiYcXN4y+6cgTjYZY7LC6cIE5NuIULDDStw/BUqw==
   dependencies:
     "@uniswap/v2-core" "^1.0.0"
     big.js "^5.2.2"
